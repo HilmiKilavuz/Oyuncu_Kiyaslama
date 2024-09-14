@@ -6,4 +6,4 @@
 <h4>-Image Charts</h4>
 <h4>-Request Kütüphanesi</h4>
 <h2>Projenin Bir Örneği</h2>
-<img src="ornek.png" alt="Örnek" >
+<img src="ornek.png" >
