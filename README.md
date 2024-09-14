@@ -7,4 +7,4 @@
 <h4>-Request Kütüphanesi</h4>
 <h2>Projenin Bir Örneği</h2>
 
-![](ornek.PNG)
+![](ornek.png)
