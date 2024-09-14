@@ -6,5 +6,5 @@
 <h4>-Image Charts</h4>
 <h4>-Request Kütüphanesi</h4>
 <h2>Projenin Bir Örneği</h2>
-![](ornek.png)
+![](C:\Users\kilav\OneDrive\Masaüstü\Kodlama\Python\Workshops\Oyuncu_Kıyasla\ornek.png)
 
